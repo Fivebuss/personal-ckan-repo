@@ -19,6 +19,11 @@
         "config",
         "planet-pack"
     ],
+    "depends": [
+        {
+            "name": "KSS2-Meta-Package"
+        }
+    ]
     "install": [
         {
             "file": "KSS2_Core/GameData/KSS2",
