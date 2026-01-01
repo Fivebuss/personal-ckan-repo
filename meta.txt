@@ -1,2 +1,0 @@
-This is just an empty file for the core metapackage, which handles dependencies all installs both core ones.
-Aka this file is useless. 
