@@ -7,9 +7,9 @@ author:
   - SNOWYMAN
 license: CC-BY-NC-ND-4.0
 $kref: >-
-  #/ckan/http/https://github.com/StarCrusher96/Kerbal-Star-Systems-2/archive/refs/tags/4.0.1.zip
+  #/ckan/http/https://github.com/StarCrusher96/Kerbal-Star-Systems-2/archive/refs/tags/4.0.2.zip
 release_status: stable
-version: 4.0.1
+version: 4.0.2
 resources:
   homepage: https://github.com/StarCrusher96/Kerbal-Star-Systems-2/
   repository: https://github.com/StarCrusher96/Kerbal-Star-Systems-2/
@@ -17,7 +17,7 @@ tags:
   - library
   - planet-pack
 install:
-  - file: 'Kerbal-Star-Systems-2-4.0.1/README.md'
+  - file: 'Kerbal-Star-Systems-2-4.0.2/README.md'
     install_to: GameData
 ksp_version: 1.12.5
 conflicts:
